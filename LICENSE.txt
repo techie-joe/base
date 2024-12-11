@@ -16,8 +16,8 @@ of this software and its content is strictly prohibited.
 
 This License Agreement  and  the above copyright notice shall be included in
 all copies or substantial portions of the software.   You are not allowed to
-remove attribution links, backlinks and copyright notices present within the
-software.
+remove or change attribution links,  backlinks and copyright notices present
+within the software.
 
 THE SOFTWARE IS PROVIDED  "AS IS",  WITHOUT  WARRANTY  OF ANY  KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO  THE WARRANTIES OF MERCHANTABILITY,
