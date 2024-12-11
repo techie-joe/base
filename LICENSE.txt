@@ -6,7 +6,7 @@ This software  and  its  content  are  the  exclusive property of the owner.
 By using  this  software,  you agree to abide by the terms and conditions of
 this License Agreement.
 
-Permission is granted to users to use the content as explicitly permitted by
+Permission is granted to users to use the software as explicitly permitted by
 the author.   Any attempt to access,  use,  or modify any content other than
 what is permitted, is strictly forbidden.
 
