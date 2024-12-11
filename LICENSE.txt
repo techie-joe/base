@@ -3,19 +3,20 @@ Copyright (c) 2024 Techie Joe
 LICENSE AGREEMENT
 
 This software  and  its  content  are  the  exclusive property of the owner.
-By  using  this  software, you agree to abide by the terms and conditions of
+By using  this  software,  you agree to abide by the terms and conditions of
 this License Agreement.
 
 Permission is granted to users to use the content as explicitly permitted by
-this software.  Any attempt to access, use, or modify any content other than
+the author.   Any attempt to access,  use,  or modify any content other than
 what is permitted, is strictly forbidden.   Users must not reverse-engineer,
 decompile, or disassemble this software or any part thereof.    Unauthorized
 copying, distribution, modification, or use of this software and its content
 is strictly prohibited.
 
-The above copyright notice  and  this License Agreement shall be included in
+This License Agreement  and  the above copyright notice shall be included in
 all copies or substantial portions of the software.   You are not allowed to
-remove attribution links and  copyright notices present within the software.
+remove attribution links, backlinks and copyright notices present within the
+software.
 
 THE SOFTWARE IS PROVIDED  "AS IS",  WITHOUT  WARRANTY  OF ANY  KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO  THE WARRANTIES OF MERCHANTABILITY,
