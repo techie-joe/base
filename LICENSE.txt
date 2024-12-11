@@ -15,7 +15,7 @@ is strictly prohibited.
 
 The above copyright notice  and  this License Agreement shall be included in
 all copies or substantial portions of the software.   You are not allowed to
-remove the authors attribution link or copyright notices  present within the
+remove author's attribution link  or  copyright notices  present  within the
 software.
 
 THE SOFTWARE IS PROVIDED  "AS IS",  WITHOUT  WARRANTY  OF ANY  KIND, EXPRESS
