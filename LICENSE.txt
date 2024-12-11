@@ -6,14 +6,14 @@ This software  and  its  content  are  the  exclusive property of the owner.
 By  using  this  software, you agree to abide by the terms and conditions of
 this License Agreement.
 
-Permission is  granted to users to  use  the content explicitly permitted by
-this software.  Any attempt to access, use, or modify any the  content other
-than  what  is  allowed  is  forbidden.  Users  must  not  reverse-engineer,
-decompile, or disassemble this software  or  any part thereof.  Unauthorized
+Permission is granted to users to use the content as explicitly permitted by
+this software.  Any attempt to access, use, or modify any content other than
+what is permitted, is strictly forbidden.   Users must not reverse-engineer,
+decompile, or disassemble this software or any part thereof.    Unauthorized
 copying, distribution, modification, or use of this software and its content
 is strictly prohibited.
 
-The above copyright notice and this  License Agreement  shall be included in
+The above copyright notice  and  this License Agreement shall be included in
 all copies or substantial portions of the software.   You are not allowed to
 remove the authors attribution link or copyright notices  present within the
 software.
