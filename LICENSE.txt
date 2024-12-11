@@ -8,10 +8,11 @@ this License Agreement.
 
 Permission is granted to users to use the content as explicitly permitted by
 the author.   Any attempt to access,  use,  or modify any content other than
-what is permitted, is strictly forbidden.   Users must not reverse-engineer,
-decompile, or disassemble this software or any part thereof.    Unauthorized
-copying, distribution, modification, or use of this software and its content
-is strictly prohibited.
+what is permitted, is strictly forbidden.
+
+Users must not reverse-engineer, decompile, or  disassemble this software or
+any part thereof.   Unauthorized copying, distribution, modification, or use
+of this software and its content is strictly prohibited.
 
 This License Agreement  and  the above copyright notice shall be included in
 all copies or substantial portions of the software.   You are not allowed to
